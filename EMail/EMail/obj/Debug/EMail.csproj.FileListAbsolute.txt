@@ -1,0 +1,10 @@
+C:\Users\TIME\source\repos\EMail\EMail\bin\Debug\EMail.exe.config
+C:\Users\TIME\source\repos\EMail\EMail\bin\Debug\EMail.exe
+C:\Users\TIME\source\repos\EMail\EMail\bin\Debug\EMail.pdb
+C:\Users\TIME\source\repos\EMail\EMail\obj\Debug\EMail.csprojAssemblyReference.cache
+C:\Users\TIME\source\repos\EMail\EMail\obj\Debug\EMail.Form1.resources
+C:\Users\TIME\source\repos\EMail\EMail\obj\Debug\EMail.Properties.Resources.resources
+C:\Users\TIME\source\repos\EMail\EMail\obj\Debug\EMail.csproj.GenerateResource.cache
+C:\Users\TIME\source\repos\EMail\EMail\obj\Debug\EMail.csproj.CoreCompileInputs.cache
+C:\Users\TIME\source\repos\EMail\EMail\obj\Debug\EMail.exe
+C:\Users\TIME\source\repos\EMail\EMail\obj\Debug\EMail.pdb
